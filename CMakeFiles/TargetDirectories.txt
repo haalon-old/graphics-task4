@@ -1,0 +1,3 @@
+/home/haalon/Projects/task4/CMakeFiles/rebuild_cache.dir
+/home/haalon/Projects/task4/CMakeFiles/main.dir
+/home/haalon/Projects/task4/CMakeFiles/edit_cache.dir
